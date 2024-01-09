@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doctorwho07&label=Profile%20views&color=0e75b6&style=flat" alt="doctorwho07" /> </p>
 
-- 🔭 I’m currently working on [Hangman-web](https://github.com/Doctorwho07/Hangman-web)
+- 🔭 I’m currently working on [Rogue Runner]()
 
 - 🌱 I’m currently learning **JS**
 
-- 👨‍💻 All of my projects are available at [en cours](en cours)
+- 👨‍💻 All of my projects are available
 
-- 💬 Ask me about **HMTL/CSS**
+- 💬 Ask me about **HMTL/CSS/JS/PHP**
 
 - 📫 How to reach me **alexis.rouches@icloud.com**
 
