@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexis ROUCHES</h1>
+<h1 align="center">Hi 👋, I'm Alexis R</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 <h4>Looking for new goals, I like learning by doing, sharing my knowledge and working in a group.</h4>
 
