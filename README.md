@@ -10,7 +10,7 @@
 
 - 👨‍💻 Some of my projects are available
 
-- 💬 Ask me about **cybersécurité / dev web & mobile / infra**
+- 💬 Ask me about **cybersécurité / dev web & mobile **
 
 - 📫 How to reach me **Linkedin**
 
