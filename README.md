@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available
+- 👨‍💻 Some of my projects are available
 
 - 💬 Ask me about **cybersécurité / dev web & mobile / infra**
 
