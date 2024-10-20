@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **cybersécurité / dev web & mobile / infra**
 
-- 📫 How to reach me **alexis.rouches@icloud.com**
+- 📫 How to reach me **Linkedin**
 
 - ⚡ Fun fact **I am curious and serious in my work**
 
