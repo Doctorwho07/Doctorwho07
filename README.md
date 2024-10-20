@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **cybersécurité / dev web & mobile **
 
-- 📫 How to reach me **Linkedin**
-
 - ⚡ Fun fact **I am curious and serious in my work**
 
 <h3 align="left">Connect with me:</h3>
